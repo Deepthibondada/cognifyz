@@ -1,0 +1,52 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+
+        img {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SAHARA DESERT</h1>
+        <p>The Sahara Desert contains many ecological regions or ecoregions. These are as follows: The Atlantic Coastal Desert ecoregion covers an area of 39,900 sq. km along the Atlantic coast in the western part of the Sahara Desert. The North Saharan steppe and woodlands ecoregion cover an area of 1,675,300 sq. km along the northern part of the Sahara Desert. The Sahara Desert ecoregion covers an area of 4,639,900 sq. km in the central part of the Sahara Desert. The South Saharan steppe and woodlands ecoregion covers an area of 1,101,700 sq. km and runs from the east to the west direction between the hot Sahara Desert and the humid Sahel savannas. The West Saharan Montane Xeric Woodlands ecoregion covers an area of about 258,100 sq. km and encompasses many volcanic highland areas in the Sahara Desert. The Tibesti-Jebel Uweinat montane xeric woodlands ecoregion covers an area of about 54,000 sq. km in the eastern parts of the Sahara Desert.
+
+            .</p>
+        <img src="sahara.jpg" alt="sahara.jpg">
+    </div>
+</body>
+</html>
